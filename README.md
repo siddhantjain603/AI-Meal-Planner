@@ -15,7 +15,7 @@ AI-Meal-Planner is a web application that helps users create personalized meal p
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/yourusername/AI-Meal-Planner.git
+- git clone https://github.com/siddhantjain603/AI-Meal-Planner.git
 - cd AI-Meal-Planner
   
 ### 2. Install Dependencies
